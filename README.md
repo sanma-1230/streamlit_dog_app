@@ -1,4 +1,6 @@
-# 犬種予測アプリ
+# 犬種予測アプリ  
+url: https://sanma-1230-streamlit-dog-app-app-fck70s.streamlit.app/  
+  
 １２０種の犬種を学習済みモデルにより予測します。  
 以下が予測可能犬種です。  
 'Afghan_hound', 'African_hunting_dog', 'Airedale', 
