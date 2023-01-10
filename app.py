@@ -8,7 +8,7 @@ model = keras.models.load_model('model_1_ver3.h5')
 true_dict = np.load('true_dict.npy', allow_pickle=True).item()
 def get_keys_from_value(d, val):
     return [k for k, v in d.items() if v == val]
-
+# text
 st.title("犬種予測")
 st.text("""
         １２０種の犬種を学習済みモデルにより予測します。
