@@ -1,6 +1,6 @@
 # 犬種予測アプリ
-１２０種の犬種を学習済みモデルにより予測します。
-以下が予測可能犬種です。
+１２０種の犬種を学習済みモデルにより予測します。  
+以下が予測可能犬種です。  
 'Afghan_hound', 'African_hunting_dog', 'Airedale', 
 'American_Staffordshire_terrier', 'Appenzeller', 'Australian_terrier', 
 'Bedlington_terrier', 'Bernese_mountain_dog', 'Blenheim_spaniel', 
@@ -26,7 +26,7 @@
 'papillon', 'pug', 'redbone', 'schipperke', 'silky_terrier', 'soft', 'standard_poodle', 
 'standard_schnauzer', 'toy_poodle', 'toy_terrier', 'vizsla', 'whippet', 'wire'
        
-JPG、PNGファイルの画像を入力すると、予測結果が出力されます。
-予測精度は約80%となっています。
+JPG、PNGファイルの画像を入力すると、予測結果が出力されます。  
+予測精度は約80%となっています。  
 
 使用データセット：Stanford Dogs Dataset（http://vision.stanford.edu/aditya86/ImageNetDogs/main.html）
